@@ -160,7 +160,7 @@ class Main extends React.Component {
                                 <button>BUY NOW</button>
                                 <button>ADD TO BASKET</button>
                             </div>
-                            <p className="deliveryInfo">*order more than 2 segways now and get a free delivery option</p>
+                            <p className="deliveryInfo">*order more than 2 segways now and get free delivery</p>
                         </div>
                     </div>
 
