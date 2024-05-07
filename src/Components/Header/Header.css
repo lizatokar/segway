@@ -1,0 +1,65 @@
+.header .upperPart {
+    display: flex;
+    align-items: center;
+    background-color: #282c34;
+    justify-content: space-around;
+}
+
+.header .upperPart .logo {
+    display: flex;
+    align-items: center;
+}
+
+.header .upperPart .logo img {
+    width: 15%;
+}
+
+.header .upperPart .logo p {
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+    text-align: center;
+    font-style: italic;
+}
+
+.header .upperPart nav {
+    height: 100px;
+    color: #61dafb;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.header .upperPart a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header .segways {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.header .segways .segway img {
+    width: 70px;
+    height: 90px;
+}
+
+.header .banner {
+    height: 90px;
+    background-color: rgb(83, 83, 234);
+    background-color: #0581bf;
+}
+
+.header .banner p {
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 35px 0 0 0;
+}

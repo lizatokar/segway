@@ -1,0 +1,13 @@
+.footer {
+    background-color: #282c34;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 25px;
+}
+
+.footer a,
+.footer p {
+    color: white;
+    text-decoration: none;
+}

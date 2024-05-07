@@ -1,0 +1,159 @@
+.main .segwayDescription div h1 {
+    text-transform: uppercase;
+    font-size: 40px;
+    margin: 0;
+}
+
+.main .segwayDescription {
+    margin: 100px auto;
+    width: 75%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main .segwayDescription .segwayDetails {
+    border: 1px solid rgb(86, 84, 84);
+    margin: 30px 0 0 0;
+}
+
+.main .segwayDescription .segwayDetails h3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.main .segwayDescription .segwayDetails .segwayOrder .segwayOrderCalculation p {
+    text-align: center;
+}
+
+.main .segwayDescription .segwayDetails .segwayOrder .segwayOrderCalculation {
+    padding: 15px;
+}
+
+.main .segwayDescription .segwayDetails .segwayOrder .segwayOrderCalculation .orderNumbers {
+    font-weight: bold;
+}
+
+.main .segwayDescription .segwayDetails .segwayOrder .segwayOrderCalculation .orderTitles {
+    text-transform: uppercase;
+}
+
+.main .segwayDescription .segwayDetails .buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main .segwayDescription .segwayDetails .buttons button {
+    background-color: #0581bf;
+    color: white;
+    border: none;
+    margin: 20px 20px;
+    cursor: pointer;
+    padding: 15px;
+}
+
+.main .segwayDescription .segwayDetails .deliveryInfo {
+    text-align: left;
+    padding: 0 5px;
+}
+
+.main .segwayDescription .segwayImage {
+    width: 25%;
+    margin-top: 50px;
+}
+
+.main .segwayDescription .segwayDetails .segwayOrder {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main .four-buttons-description .four-buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main .four-buttons-description .four-buttons button {
+    padding: 20px 116px;
+    background-color: #0581bf;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+}
+
+.main .four-buttons-description .four-buttons button:hover {
+    background-color: #282c34;
+}
+
+.main .four-buttons-description {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.main .four-buttons-description .buttons-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main .four-buttons-description .buttons-content .images {
+    width: 20%;
+}
+
+.main .accessoriesSection {
+    margin-top: 120px;
+}
+
+.main .accessoriesSection h2,
+.main .segwayApp h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+.main .accessoriesSection .accessories {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.main .accessoriesSection .accessories .certainAccessory {
+    width: 25%;
+}
+
+.main .accessoriesSection .accessories .certainAccessory {
+    text-align: center;
+}
+
+.main .accessoriesSection .accessories .certainAccessory h3 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main .accessoriesSection .accessories .certainAccessory p {
+    margin-bottom: 45px;
+}
+
+.main .accessoriesSection .accessories .certainAccessory .price {
+    font-weight: bold;
+}
+
+.main .accessoriesSection .accessories .certainAccessory button {
+    border-radius: 5%;
+    border: 1px solid rgb(158, 156, 156);
+    text-transform: uppercase;
+    padding: 10px;
+    background-color: white;
+    color: rgb(158, 156, 156);
+    cursor: pointer;
+    margin-bottom: 70px;
+}
+
+.main .segwayApp {
+    text-align: center;
+}
+
+.main .segwayApp img {
+    margin: 45px 0 80px 0;
+}
