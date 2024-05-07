@@ -34,7 +34,7 @@ class Header extends React.Component {
                     ))}
                 </div>
                 <div className="banner">
-                    <p>Order top-level segway and enjoy your ride!</p>
+                    <p>Order a top-level segway and enjoy your ride!</p>
                 </div>
             </div>
         );
