@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/segway/static/css/main.14823486.css",
+    "main.js": "/segway/static/js/main.99319bf0.js",
+    "static/media/fastDelivery.jpg": "/segway/static/media/fastDelivery.529982a269707b2379a0.jpg",
+    "static/media/warranty.jpg": "/segway/static/media/warranty.0be0ae3af1e164b7baa5.jpg",
+    "static/media/charging.jpg": "/segway/static/media/charging.01cf11b6a95d3e728762.jpg",
+    "static/media/SegwayApp.png": "/segway/static/media/SegwayApp.df4b663b3f9507c22acc.png",
+    "static/media/customerService.jpg": "/segway/static/media/customerService.20140800c5eb1852be31.jpg",
+    "static/media/SegwayNinebotGT1EBlack.png": "/segway/static/media/SegwayNinebotGT1EBlack.ad61a9d1b47b9fbc9e70.png",
+    "static/media/SegwayNinebotE2E.png": "/segway/static/media/SegwayNinebotE2E.ef37908b61bd69c536d5.png",
+    "static/media/SegwayNinebotF65I.png": "/segway/static/media/SegwayNinebotF65I.75d487124c257bf08064.png",
+    "static/media/SegwayNinebotE2PlusEBlack.png": "/segway/static/media/SegwayNinebotE2PlusEBlack.a8e2802f69dda0ca2feb.png",
+    "static/media/SegwayNinebotA6Turquoise.png": "/segway/static/media/SegwayNinebotA6Turquoise.0c81846b6c7bff18dc14.png",
+    "static/media/SegwayNinebotF2EBlack.png": "/segway/static/media/SegwayNinebotF2EBlack.46f06e4ec8e5b1081e1c.png",
+    "static/media/SegwayNinebotE2EBlack.png": "/segway/static/media/SegwayNinebotE2EBlack.f5e23fa2ad9a7a596ed0.png",
+    "static/media/SegwayNinebotGT2PBlack.png": "/segway/static/media/SegwayNinebotGT2PBlack.64462dac74963ec78d1a.png",
+    "static/media/SegwayNinebotF25EIIBlack.png": "/segway/static/media/SegwayNinebotF25EIIBlack.529df35d4de2bc181a8c.png",
+    "static/media/SegwayNinebotC2BlackOrange.png": "/segway/static/media/SegwayNinebotC2BlackOrange.59fc33c097dd3ac22d2a.png",
+    "index.html": "/segway/index.html",
+    "main.14823486.css.map": "/segway/static/css/main.14823486.css.map",
+    "main.99319bf0.js.map": "/segway/static/js/main.99319bf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14823486.css",
+    "static/js/main.99319bf0.js"
+  ]
+}
