@@ -160,7 +160,7 @@ class Main extends React.Component {
                                 <button>BUY NOW</button>
                                 <button>ADD TO BASKET</button>
                             </div>
-                            <p className="deliveryInfo">*order more than 2 segways now and get free delivery</p>
+                            <p className="deliveryInfo">*order more than 2 segways and get free delivery</p>
                         </div>
                     </div>
 
@@ -241,17 +241,19 @@ class Main extends React.Component {
 
                 <div className="segwayApp">
                     <h2>Segway App</h2>
-                    <p>
-                        The new Segway Launcher app has added functionality for the T60
-                        autonomous scooter and Segway e-Moped.
-                    </p>
-                    <p>
-                        The Launcher app will automatically detect the vehicle category and
-                        provide different support for each vehicle, ensuring that operators
-                        have access to all of the key functions of a particular vehicle. For
-                        example, operators can use Segway Launcher to lock or unlock the
-                        tailbox of a Segway e-Moped.
-                    </p>
+                    <div className="segwayAppContent">
+                        <p>
+                            The new Segway Launcher app has added functionality for the T60
+                            autonomous scooter and Segway e-Moped.
+                        </p>
+                        <p>
+                            The Launcher app will automatically detect the vehicle category and
+                            provide different support for each vehicle, ensuring that operators
+                            have access to all of the key functions of a particular vehicle. For
+                            example, operators can use Segway Launcher to lock or unlock the
+                            tailbox of a Segway e-Moped.
+                        </p>
+                    </div>
                     <img src={this.props.data.appPicture} alt="segway app"/>
                 </div>
             </div>

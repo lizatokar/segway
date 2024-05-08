@@ -57,7 +57,7 @@
 }
 
 .main .segwayDescription .segwayImage {
-    width: 25%;
+    max-width: 45%;
     margin-top: 50px;
 }
 
@@ -68,15 +68,17 @@
 
 .main .four-buttons-description .four-buttons {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .main .four-buttons-description .four-buttons button {
-    padding: 20px 116px;
     background-color: #0581bf;
     color: white;
     text-transform: uppercase;
     border: none;
+    font-size: 18px;
+    width: 20%;
+    padding: 20px;
 }
 
 .main .four-buttons-description .four-buttons button:hover {
@@ -84,13 +86,15 @@
 }
 
 .main .four-buttons-description {
-    width: 70%;
-    margin: 0 auto;
+    /*width: 70%;*/
+    /*margin: 0 auto;*/
 }
 
 .main .four-buttons-description .buttons-content {
     display: flex;
     justify-content: space-between;
+    margin: 0 auto;
+    width: 80%;
 }
 
 .main .four-buttons-description .buttons-content .images {
@@ -98,7 +102,7 @@
 }
 
 .main .accessoriesSection {
-    margin-top: 120px;
+    margin-top: 200px;
 }
 
 .main .accessoriesSection h2,
@@ -152,6 +156,12 @@
 
 .main .segwayApp {
     text-align: center;
+    margin: 150px 0 150px 0;
+}
+
+.main .segwayApp .segwayAppContent {
+    width: 70%;
+    margin: 0 auto;
 }
 
 .main .segwayApp img {
