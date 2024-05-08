@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/segway/static/css/main.c9ce7515.css",
-    "main.js": "/segway/static/js/main.466b13bb.js",
+    "main.css": "/segway/static/css/main.acc74355.css",
+    "main.js": "/segway/static/js/main.7aac2cd9.js",
     "static/media/fastDelivery.jpg": "/segway/static/media/fastDelivery.529982a269707b2379a0.jpg",
     "static/media/warranty.jpg": "/segway/static/media/warranty.0be0ae3af1e164b7baa5.jpg",
     "static/media/charging.jpg": "/segway/static/media/charging.01cf11b6a95d3e728762.jpg",
@@ -18,11 +18,11 @@
     "static/media/SegwayNinebotF25EIIBlack.png": "/segway/static/media/SegwayNinebotF25EIIBlack.529df35d4de2bc181a8c.png",
     "static/media/SegwayNinebotC2BlackOrange.png": "/segway/static/media/SegwayNinebotC2BlackOrange.59fc33c097dd3ac22d2a.png",
     "index.html": "/segway/index.html",
-    "main.c9ce7515.css.map": "/segway/static/css/main.c9ce7515.css.map",
-    "main.466b13bb.js.map": "/segway/static/js/main.466b13bb.js.map"
+    "main.acc74355.css.map": "/segway/static/css/main.acc74355.css.map",
+    "main.7aac2cd9.js.map": "/segway/static/js/main.7aac2cd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9ce7515.css",
-    "static/js/main.466b13bb.js"
+    "static/css/main.acc74355.css",
+    "static/js/main.7aac2cd9.js"
   ]
 }
