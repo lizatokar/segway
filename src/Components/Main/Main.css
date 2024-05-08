@@ -66,12 +66,12 @@
     justify-content: space-evenly;
 }
 
-.main .four-buttons-description .four-buttons {
+.main .four-buttons {
     display: flex;
     justify-content: center;
 }
 
-.main .four-buttons-description .four-buttons button {
+.main .four-buttons button {
     background-color: #0581bf;
     color: white;
     text-transform: uppercase;
@@ -81,23 +81,18 @@
     padding: 20px;
 }
 
-.main .four-buttons-description .four-buttons button:hover {
+.main .four-buttons button:hover {
     background-color: #282c34;
 }
 
-.main .four-buttons-description {
-    /*width: 70%;*/
-    /*margin: 0 auto;*/
-}
-
-.main .four-buttons-description .buttons-content {
+.main .buttons-content {
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
     width: 80%;
 }
 
-.main .four-buttons-description .buttons-content .images {
+.main .buttons-content .images {
     width: 20%;
 }
 

@@ -171,36 +171,34 @@ class Main extends React.Component {
                     />
                 </div>
 
-                <div className="four-buttons-description">
-                    <div className="four-buttons">
-                        <button onClick={() => this.showButtonOne()}>
-                            Delivery within
-                            <br/> 1 business day
-                        </button>
-                        <button onClick={() => this.showButtonTwo()}>
-                            Basic 1 year
-                            <br/> warranty
-                        </button>
-                        <button onClick={() => this.showButtonThree()}>
-                            After Sales
-                            <br/> Support
-                        </button>
-                        <button onClick={() => this.showButtonFour()}>
-                            Up to 40 Miles
-                            <br/> per charge
-                        </button>
+                <div className="four-buttons">
+                    <button onClick={() => this.showButtonOne()}>
+                        Delivery within
+                        <br/> 1 business day
+                    </button>
+                    <button onClick={() => this.showButtonTwo()}>
+                        Basic 1 year
+                        <br/> warranty
+                    </button>
+                    <button onClick={() => this.showButtonThree()}>
+                        After Sales
+                        <br/> Support
+                    </button>
+                    <button onClick={() => this.showButtonFour()}>
+                        Up to 40 Miles
+                        <br/> per charge
+                    </button>
+                </div>
+                <div className="buttons-content">
+                    <div className="buttons-content-text">
+                        <h3>{this.state.content.heading}</h3>
+                        <p>{this.state.content.p}</p>
                     </div>
-                    <div className="buttons-content">
-                        <div className="buttons-content-text">
-                            <h3>{this.state.content.heading}</h3>
-                            <p>{this.state.content.p}</p>
-                        </div>
-                        <img
-                            src={this.state.content.img}
-                            alt="benefit logo"
-                            className="images"
-                        />
-                    </div>
+                    <img
+                        src={this.state.content.img}
+                        alt="benefit logo"
+                        className="images"
+                    />
                 </div>
 
                 <div className="accessoriesSection">
